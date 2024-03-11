@@ -1,0 +1,31 @@
+_repo: Little-Miss-Mouse_73121
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blanchard, Amy Ella
+    aliases:
+    - Blanchard, Amy E. (Amy Ella)
+    - Aunt Ella
+    - Ella, Aunt
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '8406'
+    url: http://www.gutenberg.org/2009/agents/8406
+    wikipedia: https://en.wikipedia.org/wiki/Amy_Ella_Blanchard
+description: ''
+gutenberg_issued: '2024-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73121'
+language: en
+pgterms:marc905: 20240305115948blanchard
+pgterms:marc906: '1906'
+pgterms:marc907: US
+publication_note: '  $aNew York :$bHurst & Company, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Little Miss Mouse
+url: http://www.gutenberg.org/ebooks/73121
